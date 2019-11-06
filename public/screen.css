@@ -44,8 +44,20 @@ h1 {
   font-size: 2rem;
 }
 
+.team h3 {
+  font-size: 2rem;
+}
+
 .team-1-score,
 .team-2-score {
   text-align: center;
   font-size: 5rem;
+}
+.output-message-team-1 {
+  /* display: flex; */
+  align-items: flex-start;
+  font-size: 2rem;
+}
+.output-message-team-2 {
+  font-size: 2rem;
 }
